@@ -41,7 +41,6 @@ describe('restrictThisFunc()', () => {
         
     });
     
-    // bonus test, ask why this might be an important test - need to know that its our function that's restricting it, and therefore that it works, rather than this already being a restricted function
     test("mockfn shouldn't already be restricted before being passed through restrictThisFunc()", () => {
         const mockFn1 = jest.fn()
         
