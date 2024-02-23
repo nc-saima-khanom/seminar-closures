@@ -184,3 +184,7 @@ E.g. I did the same mini promises seminar/lecture about 5 different times with i
 These will hopefully bring the seminar team closer together and also help to improve pairing experiences by showing them that they are all in the same boat as well as help to develop our mentors and ready them for the SL role if that's what they'd like to do.
 
 ## Questions from me
+- Is it possible to receive feedback from today?
+- How will I be onboarded into the role?
+- How should I prepare myself for the role?
+- What's the future of this role?
